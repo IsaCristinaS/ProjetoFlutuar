@@ -1,3 +1,5 @@
-#Projeto Flutuar
+# Projeto Flutuar
 
-![Texto Alternativo](https://freeimage.host/i/dfTpqbf)
+Tecnologia utilizada: HTML e CSS.
+
+[![Screenshot do projeto](https://iili.io/dfTpqbf.md.png)](https://freeimage.host/i/dfTpqbf)
